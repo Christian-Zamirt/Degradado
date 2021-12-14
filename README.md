@@ -14,6 +14,8 @@ El degradado tiene como función dar profundidad a una página web, ademas de se
 
 A continuación mostrare un programa en java donde este es capaz de realizar degradados de un cubo por las caras frontales, ademas se le puede modificar al gusto para que el usuario pueda manipular que cara quiere degradar, estas separandolas en secciones, se iran describiendo el proceso y al final los resultados.
 
+se mostraran partes del codigo relevantes a continuacion
+
 Librerias
 
 ![1](https://user-images.githubusercontent.com/72089660/146047156-51f6525f-f44e-42e5-afbd-aab68653ca03.PNG)
